@@ -5,7 +5,7 @@
     - Subset Sum
     - Subset Sum II
     - Combination Sum I
-    _ Combination Sum II
+    - Combination Sum II
 
 ___
 
