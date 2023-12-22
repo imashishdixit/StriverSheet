@@ -1,17 +1,14 @@
 # Index
 
 
-> -**Recursion**
->> 1.Subset Sum
->
->> 2.Subset Sum II
->
->> 3.Combination Sum I
->
->> 4.Combination Sum II
+- __Recursion__
+    - Subset Sum
+    - Subset Sum II
+    - Combination Sum I
+    _ Combination Sum II
 
 ___
-> -**Recursion & Backtracking**
->>1.Knight Move
->
->>2.New File
+
+- __Recursion & Backtracking__
+    - Knight Move
+    - New File
