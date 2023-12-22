@@ -1,7 +1,7 @@
 # Index
 
 
-> Recursion
+> **Recursion**
 >> 1.Subset Sum
 >
 >> 2.Subset Sum II
@@ -11,7 +11,7 @@
 >> 4.Combination Sum II
 
 
->Recursion & Backtracking
+> **Recursion & Backtracking**
 >>1.Knight Move
 >
 >>2.New File
