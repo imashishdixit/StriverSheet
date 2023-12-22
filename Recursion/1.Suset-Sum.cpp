@@ -1,6 +1,7 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<vector>
 using namespace std;
-/
+
 /*
 ?Set Matrix Zero
 ! Given an array print all the sum of the subset generated from it, in the increasing order.
