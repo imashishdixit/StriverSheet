@@ -6,6 +6,8 @@
     - Subset Sum II
     - Combination Sum I
     - Combination Sum II
+    - Palindrome Partioning
+    - Kth Permutation Sequence
 
 ___
 
