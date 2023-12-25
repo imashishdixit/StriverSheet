@@ -2,7 +2,7 @@
 
 
 - __Recursion__
-    - Subset Sum
+    - [Subset Sum](https://github.com/imashishdixit/StriverSheet/blob/main/2.Recursion/1.Suset-Sum.cpp)
     - Subset Sum II
     - Combination Sum I
     - Combination Sum II
