@@ -1,7 +1,7 @@
 # Index
 
 
-- __Recursion__
+- __Recursion__[](https://github.com/imashishdixit/StriverSheet/tree/main/2.Recursion)
     - [Subset Sum](https://github.com/imashishdixit/StriverSheet/blob/main/2.Recursion/1.Suset-Sum.cpp)
     - Subset Sum II
     - Combination Sum I
