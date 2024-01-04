@@ -13,4 +13,4 @@ ___
 
 - [__Recursion & Backtracking__](https://github.com/imashishdixit/StriverSheet/tree/main/3.Recursion%20%26%20Backtracking)
     - [Permutations of a String](https://github.com/imashishdixit/StriverSheet/blob/main/3.Recursion%20%26%20Backtracking/1.Permutations%20of%20a%20String.cpp)
-    - 
+    - [N-Queen]()
