@@ -17,5 +17,5 @@ ___
     - [Sudoku Solver](https://github.com/imashishdixit/StriverSheet/blob/main/3.Recursion%20%26%20Backtracking/3.Sudoku%20Solver.cpp)
     - [M Colouring Problem](https://github.com/imashishdixit/StriverSheet/blob/main/3.Recursion%20%26%20Backtracking/4.M%20Colouring%20Problem.cpp)
     - [Rat in Maze](https://github.com/imashishdixit/StriverSheet/blob/main/3.Recursion%20%26%20Backtracking/5.Rat%20in%20Maze.cpp)
-- [Binary Tree]((https://github.com/imashishdixit/StriverSheet/tree/main/Binary%20Tree)
+- [Binary Tree](https://github.com/imashishdixit/StriverSheet/tree/main/Binary%20Tree)
       
